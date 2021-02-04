@@ -1,7 +1,7 @@
 ### Hi there, I'm Dibash Thapa 👋
 
 
-<a href="https://twitter.com/dibashthapa">
+<a href="https://twitter.com/dibash_thapa">
   <img align="left" alt="Dibash Thapa" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
