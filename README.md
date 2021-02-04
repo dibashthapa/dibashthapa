@@ -9,7 +9,7 @@
 <br />
 <br />
 
-Hi, I'm Anurag Hazra, a passionate self-taught fullStack web developer from Nepal.
+Hi, I'm Dibash Thapa, a passionate self-taught fullStack web developer from Nepal.
 
 
 - 🌱 I’m currently learning Typescript and React
@@ -24,9 +24,7 @@ Hi, I'm Anurag Hazra, a passionate self-taught fullStack web developer from Nepa
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dibashthapa&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Dibash's github stats" />
-</a>
+
 
 
