@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Dibash%20Thapa-red?style=for-the-badge" width=400>
 
 
-<img src="https://img.shields.io/badge/-Full%20Stack%20Developer.-black?style=for-the-badge" width=400>
+<img src="https://img.shields.io/badge/-Aspiring%20System%20Engineer.-black?style=for-the-badge" width=400>
 
 ## Skills
 
